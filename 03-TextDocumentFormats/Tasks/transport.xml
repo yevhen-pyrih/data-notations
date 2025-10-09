@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<transports>
+    <transport>
+        <type public="true">Tram</type>
+        <speed unit="km/h">50</speed>
+        <price currency="PLN" type_of_purchase="ticket">6</price>
+        <color>Blue</color>
+    </transport>
+
+    <transport>
+        <type public="true">Bus</type>
+        <speed unit="km/h">40</speed>
+        <price currency="PLN" type_of_purchase="ticket">4</price>
+        <color>Green</color>
+    </transport>
+
+    <transport>
+        <type public="false">Car</type>
+        <speed unit="km/h">60</speed>
+        <price currency="USD" type_of_purchase="one-tome">20000</price>
+        <color>Red</color>
+    </transport>
+</transports>

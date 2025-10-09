@@ -53,5 +53,22 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "LVMH",
+        "founded": 1987,
+        "headquarters": "Paris, France",
+        "employees": 215000,
+        "products": [
+            	"Clothing",
+                "Cosmetics",
+                "Fashion", 
+                "Accessories",
+                "Jewelry",
+                "Perfumes",
+                "Spirits",
+                "Watches",
+                "Casual Wear"
+        ]
     }
 ]

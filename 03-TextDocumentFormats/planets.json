@@ -17,6 +17,7 @@
       "distance_from_sun": "149.6 million km",
       "moons": 1,
       "has_rings": false
+    },
     {
       "name": "Mars",
       "diameter": 6779,
@@ -42,14 +43,15 @@
       "name": "Uranus",
       "diameter": 50724,
       "distance_from_sun": 2871,
-      "moons": 27
-      "has_rings": true,
+      "moons": 27,
+      "has_rings": true
     },
     {
       "name": "Neptune",
-      "diameter": 49244
+      "diameter": 49244,
       "distance_from_sun": 4497,
       "moons": 14,
       "has_rings": true
+    }
   ]
   
