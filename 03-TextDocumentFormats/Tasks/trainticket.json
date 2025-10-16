@@ -1,0 +1,11 @@
+{
+    "type": "IC",
+    "name": "Supertrain9000",
+    "Train number": 12556,
+    "Arrival": "19:30",
+    "Departure": "19:45",
+    "Station": "Main",
+    "Platform": 2,
+    "Seated": true,
+    "To": "Berlin"
+}

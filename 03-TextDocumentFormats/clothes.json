@@ -70,5 +70,15 @@
                 "Watches",
                 "Casual Wear"
         ]
+    },
+    {
+        "name": "Hermès",
+        "founded": 1837,
+        "headquarters": "Paris, France",
+        "employees": 25000,
+        "products": [
+            	"Clothing",
+                "Accessories"
+        ]
     }
 ]
